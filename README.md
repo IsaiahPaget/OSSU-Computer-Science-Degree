@@ -215,8 +215,6 @@ Courses | Duration | Status | Path | Final Project
 :-- | :--: | :--: | :--: | :--:
 [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | n/a | n/a | n/a
 [Compilers](https://www.edx.org/course/compilers) | 9 weeks | n/a | n/a | n/a
-[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| 14 weeks | n/a | n/a | n/a
-[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alt](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))*| 12 weeks | n/a | n/a | n/a
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | n/a | n/a | n/a
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | n/a | n/a | n/a
 
