@@ -26,7 +26,6 @@ I'm passionate about programming and strive to become the best engineer I can be
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
   - [Core systems](#core-systems)
   - [Core theory](#core-theory)
   - [Core security](#core-security)
@@ -99,21 +98,6 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 Courses | Duration | Status | Path | Final Project 
 :-- | :--: | :--: | :--: | :--:
 [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | n/a | n/a | n/a
-
-
-### CS Tools
-Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
-
-**Topics covered**:
-`terminals and shell scripting`
-`vim`
-`command line environments`
-`version control`
-`and more`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS)
 
 ### Core systems
 
