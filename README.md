@@ -1,4 +1,4 @@
-# Isaiah Paget's Open Source Computer Science Degree
+# Open Source Computer Science Degree
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
