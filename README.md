@@ -157,16 +157,9 @@ Courses | Duration | Status | Path | Final Project
 
 Courses | Duration | Status | Path | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | n/a | n/a | n/a
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | n/a | n/a | n/a
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | In Progress | /PrinciplesOfSecureProgrammingUCDavis | n/a
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | n/a | n/a | n/a
-
-Choose **one** of the following:
-
-Courses | Duration | Status | Path | Final Project
-:-- | :--: | :--: | :--: | :--:
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | n/a | n/a | n/a
-[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | n/a | n/a | n/a
 
 ### Core applications
 
@@ -191,7 +184,7 @@ Courses | Duration | Status | Path | Final Project
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | n/a | n/a | n/a
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | n/a | n/a | n/a
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | n/a | n/a | n/a
-[Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | n/a | n/a | n/a
+[Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | In Progress | /ComputerGraphicsUCSanDiego | n/a
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | 6 weeks | n/a | n/a | n/a
 
 ## Advanced CS
