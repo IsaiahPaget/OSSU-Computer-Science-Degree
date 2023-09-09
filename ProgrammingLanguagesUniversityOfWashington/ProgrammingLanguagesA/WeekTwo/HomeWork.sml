@@ -10,21 +10,41 @@ fun is_older (x: int * int * int, y: int * int * int) =
         else if #3 x < #3 y
             then true
             else false
+        
+val test1 = is_older ((1,2,3),(2,3,4)) = true
+
+
 
 fun number_in_month(x: (int * int * int) list, y: int) =
-    val amount_of_dates = 0;
-    val i = 0;
-    if 
-
-val test1 = is_older ((1,2,3),(2,3,4)) = true
+    if null x then
+        0
+    else if #2 (hd x) = y then
+        1 + number_in_month (tl x, y)
+    else
+        number_in_month (tl x, y)
 
 val test2 = number_in_month ([(2012,2,28),(2013,12,1)],2) = 1
 
-(* val test3 = number_in_months ([(2012,2,28),(2013,12,1),(2011,3,31),(2011,4,28)],[2,3,4]) = 3
+
+
+fun number_in_months(months: (int * int * int) list, dates: int list) =
+    if null months orelse null dates then 0
+    else number_in_month(months, hd dates) + number_in_months(tl months, tl dates)
+
+val test3 = number_in_months ([(2012,2,28),(2013,12,1),(2011,3,31),(2011,4,28)],[2,3,4]) = 3
+
+
+
+fun dates_in_month(dates: (int * int * int) list, month: int) =
+    if null dates then 0
+    else if #2(hd dates) = y then
+        [hd dates] :: dates_in_month(tl dates, month)
+    else
+        dates_in_month(tl dates, month)
 
 val test4 = dates_in_month ([(2012,2,28),(2013,12,1)],2) = [(2012,2,28)]
 
-val test5 = dates_in_months ([(2012,2,28),(2013,12,1),(2011,3,31),(2011,4,28)],[2,3,4]) = [(2012,2,28),(2011,3,31),(2011,4,28)]
+(* val test5 = dates_in_months ([(2012,2,28),(2013,12,1),(2011,3,31),(2011,4,28)],[2,3,4]) = [(2012,2,28),(2011,3,31),(2011,4,28)]
 
 val test6 = get_nth (["hi", "there", "how", "are", "you"], 2) = "there"
 
