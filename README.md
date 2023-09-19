@@ -78,11 +78,11 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | In Progress | [UniversityOfWashingtonProgrammingLanguages](https://github.com/IsaiahPaget/UniversityOfWashingtonProgrammingLanguages) | n/a
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | n/a | [UniversityOfWashingtonProgrammingLanguages](https://github.com/IsaiahPaget/UniversityOfWashingtonProgrammingLanguages) | n/a
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | n/a | [UniversityOfWashingtonProgrammingLanguages](https://github.com/IsaiahPaget/UniversityOfWashingtonProgrammingLanguages) | n/a 
-[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | n/a | n/a | n/a
-[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | n/a | n/a | n/a
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | n/a | n/a | n/a
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | Not Started | [UniversityOfWashingtonProgrammingLanguages](https://github.com/IsaiahPaget/UniversityOfWashingtonProgrammingLanguages) | n/a
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | Not Started | [UniversityOfWashingtonProgrammingLanguages](https://github.com/IsaiahPaget/UniversityOfWashingtonProgrammingLanguages) | n/a 
+[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | Not Started | n/a | n/a
+[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | Not Started | n/a | n/a
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | Not Started | n/a | n/a
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures.
@@ -120,9 +120,9 @@ Courses | Duration | Status | Repo | Final Project
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/)) | 6 weeks | In Progress | [Nand2Tetris](https://github.com/IsaiahPaget/Nand2Tetris) | n/a
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | n/a | [Nand2Tetris](https://github.com/IsaiahPaget/Nand2Tetris) | n/a
-[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | n/a | n/a | n/a
-[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | n/a | n/a | n/a
+[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | Not Started | [Nand2Tetris](https://github.com/IsaiahPaget/Nand2Tetris) | n/a
+[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | Not Started | n/a | n/a
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | Not Started | n/a | n/a
 ### Core theory
 
 **Topics covered**:
@@ -140,10 +140,10 @@ Courses | Duration | Status | Repo | Final Project
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | n/a | n/a | n/a
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | n/a | n/a | n/a
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | n/a | n/a | n/a
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | n/a | n/a | n/a
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | In Progress | n/a | n/a
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | Not Started | n/a | n/a
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | Not Started | n/a | n/a
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | Not Started | n/a | n/a
 
 ### Core security
 **Topics covered**
@@ -158,8 +158,8 @@ Courses | Duration | Status | Repo | Final Project
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | In Progress | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | n/a | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
-[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | n/a | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | Not Started | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | Not Started | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
 
 ### Core applications
 
@@ -180,12 +180,12 @@ Courses | Duration | Status | Repo | Final Project
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | n/a | n/a | n/a
-[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | n/a | n/a | n/a
-[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | n/a | n/a | n/a
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | Not Started | n/a | n/a
+[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | Not Started | n/a | n/a
+[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | Not Started | n/a | n/a
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | In Progress | [MachineLearningSpecialization](https://github.com/IsaiahPaget/MachineLearningSpecialization) | n/a
 [Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | Not Started | n/a | n/a
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | 6 weeks | n/a | n/a | n/a
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | 6 weeks | Not Started | n/a | n/a
 
 ## Advanced CS
 
@@ -206,10 +206,10 @@ But students should take *every* course that is relevant to the field they inten
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | n/a | n/a | n/a
-[Compilers](https://www.edx.org/course/compilers) | 9 weeks | n/a | n/a | n/a
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | n/a | n/a | n/a
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | n/a | n/a | n/a
+[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | Not Started | n/a | n/a
+[Compilers](https://www.edx.org/course/compilers) | 9 weeks | Not Started | n/a | n/a
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | Not Started | n/a | n/a
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | Not Started | n/a | n/a
 
 (*) book by Blackburn, Bos, Striegnitz (compiled from [source](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
 
@@ -233,9 +233,9 @@ Courses | Duration | Status | Repo | Final Project
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alt1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alt2 ](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 10 weeks | n/a | n/a | n/a
-[Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | 10 weeks | n/a | n/a | n/a
-[Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | 10 weeks | n/a | n/a | n/a
+[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alt1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alt2 ](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 10 weeks | Not Started | n/a | n/a
+[Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | 10 weeks | Not Started | n/a | n/a
+[Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | 10 weeks | Not Started | n/a | n/a
 
 ### Advanced theory
 
@@ -257,26 +257,26 @@ Courses | Duration | Status | Repo | Final Project
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alt](http://aduni.org/courses/theory/index.php?view=cw)) | 13 weeks | n/a | n/a | n/a
-[Computational Geometry](https://www.edx.org/course/computational-geometry) | 16 weeks | n/a | n/a | n/a
-[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | n/a | n/a | n/a
+[Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alt](http://aduni.org/courses/theory/index.php?view=cw)) | 13 weeks | Not Started | n/a | n/a
+[Computational Geometry](https://www.edx.org/course/computational-geometry) | 16 weeks | Not Started | n/a | n/a
+[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | Not Started | n/a | n/a
 
 ### Advanced Information Security
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | n/a | n/a | n/a
-[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | n/a | n/a | n/a
-[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | n/a | n/a | n/a
-[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | n/a | n/a | n/a
-[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | n/a | n/a | n/a
-[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | n/a | n/a | n/a
+[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | Not Started | n/a | n/a
+[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | Not Started | n/a | n/a
+[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | Not Started | n/a | n/a
+[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | Not Started | n/a | n/a
+[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | Not Started | n/a | n/a
+[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | Not Started | n/a | n/a
 
 ### Advanced math
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | n/a | n/a | n/a
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | n/a | n/a | n/a
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | Not Started | n/a | n/a
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | Not Started | n/a | n/a
 
 ## Final project
 
