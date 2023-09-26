@@ -180,7 +180,7 @@ Courses | Duration | Status | Repo | Final Project
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | Not Started | n/a | n/a
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | In Progress | n/a | n/a
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | Not Started | n/a | n/a
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | Not Started | n/a | n/a
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | In Progress | [MachineLearningSpecialization](https://github.com/IsaiahPaget/MachineLearningSpecialization) | n/a
