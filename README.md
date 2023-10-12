@@ -17,7 +17,7 @@
 
 # Summary
 
-I'm passionate about programming and strive to become the best engineer I can be. Through online resources, I learned web development and secured a software developer job. However, my learning journey continues. I'm taking courses for experience and to face new challenges. While my curriculum doesn't exactly match the [OSSU](https://github.com/ossu/computer-science) curriculum, I've streamlined the advanced topics and omitted some foundational ones I'm already confident in.
+This is a visualization of my personal learning goals and progress. My curriculum doesn't exactly match the [OSSU](https://github.com/ossu/computer-science) curriculum as I've streamlined the advanced topics and omitted some foundational ones I'm already confident in.
 
 # Curriculum
 
