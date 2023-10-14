@@ -77,9 +77,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | In Progress | [UniversityOfWashingtonProgrammingLanguages](https://github.com/IsaiahPaget/UniversityOfWashingtonProgrammingLanguages) | n/a
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | Not Started | [UniversityOfWashingtonProgrammingLanguages](https://github.com/IsaiahPaget/UniversityOfWashingtonProgrammingLanguages) | n/a
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | Not Started | [UniversityOfWashingtonProgrammingLanguages](https://github.com/IsaiahPaget/UniversityOfWashingtonProgrammingLanguages) | n/a 
+[C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) | 3-6 months | In Progress | [CProgrammingWithLinux](https://github.com/IsaiahPaget/CProgrammingWithLinux) | n/a 
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | Not Started | n/a | n/a
 [Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | Not Started | n/a | n/a
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | Not Started | n/a | n/a
