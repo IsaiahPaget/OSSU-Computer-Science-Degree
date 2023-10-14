@@ -62,18 +62,12 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 ### Core programming
 **Topics covered**:
-`functional programming`
 `design for testing`
 `program requirements`
 `common design patterns`
 `unit testing`
 `object-oriented design`
 `static typing`
-`dynamic typing`
-`ML-family languages (via Standard ML)`
-`Lisp-family languages (via Racket)`
-`Ruby`
-`and more`
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
