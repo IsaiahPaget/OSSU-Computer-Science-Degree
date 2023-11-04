@@ -131,10 +131,11 @@ Courses | Duration | Status | Repo | Final Project
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | In Progress | [StanfordDataStructuresAndAlgorithms](https://github.com/isaiahpaget/stanforddatastructuresandalgorithms) | n/a
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | Not Started | [StanfordDataStructuresAndAlgorithms](https://github.com/isaiahpaget/stanforddatastructuresandalgorithms) | n/a
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | Not Started | [StanfordDataStructuresAndAlgorithms](https://github.com/isaiahpaget/stanforddatastructuresandalgorithms) | n/a
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | Not Started | [StanfordDataStructuresAndAlgorithms](https://github.com/isaiahpaget/stanforddatastructuresandalgorithms) | n/a
+[Algorithmix Toolbox](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms) | 4 weeks | In Progress | [UCSDDataStructuresAndAlgorithms](https://github.com/isaiahpaget/ucsddatastructuresandalgorithms) | n/a
+[Data Structures](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms) | 4 weeks | Not Started | [UCSDDataStructuresAndAlgorithms](https://github.com/isaiahpaget/ucsddatastructuresandalgorithms) | n/a
+[Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms) | 4 weeks | Not Started | [UCSDDataStructuresAndAlgorithms](https://github.com/isaiahpaget/ucsddatastructuresandalgorithms) | n/a
+[Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings?specialization=data-structures-algorithms) | 4 weeks | Not Started | [UCSDDataStructuresAndAlgorithms](https://github.com/isaiahpaget/ucsddatastructuresandalgorithms) | n/a
+[Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity?specialization=data-structures-algorithms) | 4 weeks | Not Started | [UCSDDataStructuresAndAlgorithms](https://github.com/isaiahpaget/ucsddatastructuresandalgorithms) | n/a
 
 ### Core security
 **Topics covered**
