@@ -110,7 +110,7 @@ Courses | Duration | Status | Repo | Final Project
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/)) | 6 weeks | In Progress | [Nand2Tetris](https://github.com/IsaiahPaget/Nand2Tetris) | n/a
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/)) | 6 weeks | Complete | [Nand2Tetris](https://github.com/IsaiahPaget/Nand2Tetris) | [HackAssembler](https://github.com/IsaiahPaget/HackAssembler)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | Not Started | [Nand2Tetris](https://github.com/IsaiahPaget/Nand2Tetris) | n/a
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | Not Started | n/a | n/a
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | Not Started | n/a | n/a
@@ -131,10 +131,10 @@ Courses | Duration | Status | Repo | Final Project
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | In Progress | n/a | n/a
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | Not Started | n/a | n/a
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | Not Started | n/a | n/a
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | Not Started | n/a | n/a
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | In Progress | [StanfordDataStructuresAndAlgorithms](https://github.com/isaiahpaget/stanforddatastructuresandalgorithms) | n/a
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | Not Started | [StanfordDataStructuresAndAlgorithms](https://github.com/isaiahpaget/stanforddatastructuresandalgorithms) | n/a
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | Not Started | [StanfordDataStructuresAndAlgorithms](https://github.com/isaiahpaget/stanforddatastructuresandalgorithms) | n/a
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | Not Started | [StanfordDataStructuresAndAlgorithms](https://github.com/isaiahpaget/stanforddatastructuresandalgorithms) | n/a
 
 ### Core security
 **Topics covered**
