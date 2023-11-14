@@ -111,7 +111,7 @@ Courses | Duration | Status | Repo | Final Project
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/)) | 6 weeks | Complete | [Nand2Tetris](https://github.com/IsaiahPaget/Nand2Tetris) | [HackAssembler](https://github.com/IsaiahPaget/HackAssembler)
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | Not Started | [Nand2Tetris](https://github.com/IsaiahPaget/Nand2Tetris) | n/a
+[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | In Progress | [Nand2Tetris](https://github.com/IsaiahPaget/Nand2Tetris) | n/a
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | Not Started | n/a | n/a
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | Not Started | n/a | n/a
 ### Core theory
@@ -150,8 +150,8 @@ Courses | Duration | Status | Repo | Final Project
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | Complete | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | In Progress | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
-[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | Not Started | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | Complete | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | In Progress | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
 
 ### Core applications
 
