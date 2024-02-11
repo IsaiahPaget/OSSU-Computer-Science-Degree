@@ -175,7 +175,7 @@ Courses | Duration | Status | Repo | Final Project
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | In Progress | n/a | n/a
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | Not Started | n/a | n/a
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | Not Started | n/a | n/a
-[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | Complete | [MachineLearningSpecialization](https://github.com/IsaiahPaget/MachineLearningSpecialization) | In Progress
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | Complete | [MachineLearningSpecialization](https://github.com/IsaiahPaget/MachineLearningSpecialization) | [Tron Agent](https://github.com/IsaiahPaget/TronAgent)
 [Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | Not Started | n/a | n/a
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | 6 weeks | Not Started | n/a | n/a
 
