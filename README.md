@@ -103,9 +103,9 @@ Understanding theory is important, but you will also be expected to create progr
 `version control`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
+Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS)
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | In Progress | n/a | n/a
 
 ### Core systems
 
