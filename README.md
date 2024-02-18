@@ -88,7 +88,7 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 
 Courses | Duration | Status | Repo | Final Project 
 :-- | :--: | :--: | :--: | :--:
-[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | n/a | n/a | n/a
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | In Progress | n/a | n/a
 
 ### Core systems
 
