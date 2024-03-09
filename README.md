@@ -71,7 +71,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | In Progress | n/a | n/a
+[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | Complete | n/a | n/a
 [Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | Not Started | n/a | n/a
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | Not Started | n/a | n/a
 
