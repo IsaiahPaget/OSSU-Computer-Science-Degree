@@ -89,8 +89,8 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 Courses | Duration | Status | Repo | Final Project 
 :-- | :--: | :--: | :--: | :--:
 [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | In Progress | n/a | n/a
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | Not Started | n/a | n/a
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | Not Started | n/a | n/a
+[Calculus 1B: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | Not Started | n/a | n/a
+[Calculus 1C: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | Not Started | n/a | n/a
 [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | Not Started | n/a | n/a
 
 ### CS Tools
