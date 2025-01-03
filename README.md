@@ -166,10 +166,10 @@ Courses | Duration | Status | Repo | Final Project
 
 Courses | Duration | Status | Repo | Final Project
 :-- | :--: | :--: | :--: | :--:
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | Complete | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | Complete | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
-[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | Complete | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
-[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | In Progess | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | n/a
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | Complete | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | [Password Manager](https://github.com/IsaiahPaget/PasswordManager)
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | Complete | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | [Password Manager](https://github.com/IsaiahPaget/PasswordManager)
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | Complete | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | [Password Manager](https://github.com/IsaiahPaget/PasswordManager)
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | In Progess | [SecureCodingPracticesSpecialization](https://github.com/IsaiahPaget/SecureCodingPracticesSpecialization) | [Password Manager](https://github.com/IsaiahPaget/PasswordManager)
 
 ### Core applications
 
